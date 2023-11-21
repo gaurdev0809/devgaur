@@ -1,2 +1,3 @@
 # devgaur
-this is my first repository
+this is my first Git Repository.
+AUTHOR= DEV AGUR.
