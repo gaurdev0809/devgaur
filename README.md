@@ -1,4 +1,4 @@
-# DevGaur
-this is my first Git Repository.
+# Dev Gaur
+Hello everyone I'm Dev Gaur 
 <br>
 AUTHOR = DEV GAUR.
